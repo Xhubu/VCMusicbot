@@ -7,7 +7,7 @@
       "pytgcalls",
       "productivity"
     ],
-    "repository": "https://github.com/TheVaders/MusicBot",
+    "repository": "https://github.com/Xhubu/VCMusicBot",
     "stack": "container",
     "env": {
       "API_ID": {
@@ -27,12 +27,12 @@
         "value": ""
       },
       "BOT_NAME": {
-        "description": "Your Bot Name. By default it is Hêllẞø†",
-        "value": "Hêllẞø†"
+        "description": "Your Bot Name. By default it is Death",
+        "value": "Death"
       },
       "SUDO_USERS": {
         "description": "List of ID of those who can pause, stop and clear queue,separated by space.",
-        "value": "924138714"
+        "value": ""
       },
       "DURATION_LIMIT": {
         "description": "Maximum duration of songs that users can request(in minutes).",
